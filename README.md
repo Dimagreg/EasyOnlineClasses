@@ -9,7 +9,7 @@ Software is currently limited to **Google Chrome** and **Windows 10** only.
 # Instructions (wrapped):
 1. Download/Update Java from https://www.java.com/en/download/
 2. Make sure you have Google Chrome installed and updated.
-3. Download the latest version of the software in .zip.
+3. [Download the latest version of the software.](https://github.com/Dimagreg/EasyOnlineClasses/releases)
 4. Unzip the folder and run EasyOnlineClasses.exe.
 5. Follow the message boxes.
 *(More information in README.txt)*
