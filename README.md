@@ -41,8 +41,24 @@ If the valid Google Meet or Zoom link is found and also respecting the schedule*
 
 The bot will wait for user interaction and will **not** join the lesson without user confirmation. After joining the lesson a 120 minutes timer will start. The browser will close after the timeout or anytime if the user closes the window.
 
-2. In case of a Zoom link the Zoom page is loaded where the user will launch the zoom manually by pressing the "Launch Zoom" button.
+2. In case of a Zoom link the Zoom page is loaded where the user will launch the zoom manually by pressing the "Launch Meeting" button. The browser will shutdown in 5 minutes or can be closed by the user.
 
-![info5](infobox/info5.PNG)
+![info5](infobox/info5.png)
 
 Zoom is not automated due to the limits of Selenium Library that does not extend outside html pages.
+
+* **,also respecting the schedule...** - because some links are posted way earlier than expected and the user does not want to connect to the lesson 20 minutes before its start, the bot will calculate the time it is supposed to wait before joining the lesson. This time is based on the school schedule and at the time of speaking it is hard-coded in the code. It looks like this:
+
+```java
+   // -5 minutes
+        String firstLesson = "08-25-00";
+        String secondLesson = "09-20-00";
+        String thirdLesson = "10-15-00";
+        String fourthLesson = "11-20-00";
+        String fifthLesson = "12-25-00";
+        String sixthLesson = "13-20-00";
+        String seventhLesson = "14-10-00";
+```
+
+# Contribute
+You can contribute to this project by testing and requesting any useful features.
