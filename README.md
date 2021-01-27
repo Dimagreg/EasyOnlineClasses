@@ -17,6 +17,8 @@ Software is currently limited to **Google Chrome** and **Windows 10** only.
 # How it works?
 The software is based on Selenium library that interacts with browser in human-like behaviour.
 On startup a message box appears asking the following:
+
 ![info1](infobox/info1.PNG)
+
 After the user inputs the correct number, a chrome instance will be created.
 
