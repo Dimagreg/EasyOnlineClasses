@@ -1,0 +1,74 @@
+*Closed Alpha v1.0 - 26/12/20
+
+- Initial release of functional code, simple and may contain bugs. More tests to be done.
+- First time the code will see its life outside Dima's pc.
+
+
+*Closed Alpha v1.1 - 28/12/20
+
+- Optimized the code for testing during the vacation.
+- Fixed exception thrown based on internet speed.
+- Optimized the executing time.
+
+
+*Closed Alpha v1.2 - 29/12/20
+
+- Application is now in .exe extension.
+- Fixed StaleElementReferenceException with force refreshing.
+- Incorrect password in google accounts throws an exception.
+- Improved the use of java classes.
+
+
+*Closed Alpha v1.3 - 30/12/20 COOKIES!
+
+- Now handling cookies! Login only on first launch.
+- Improved logs.
+- Updated README.txt file.
+- Fixed most of the "features".
+
+
+*Closed Alpha v1.4 - 2/1/21
+
+-Added exit codes for an easier debugging.
+
+
+*Closed Alpha v1.5 - 3/1/21
+
+- Added info, error, confirm, warning message boxes.
+- Google login credentials are now passed MANUALLY due to security measures.
+No longer private information is passed in conf.properties file.
+- Updated README.txt file.
+
+*Closed Alpha v1.6 - 10/1/21
+
+- Date is now automated and is not typed manually by user.
+- Lesson index input is now in a message box instead of conf.properties.
+- Removing conf.properties and output.txt due to uselessness.
+- Fixed issue when you can not open another instance of application immediately after closing the first one.
+- Optimized for Google Meet classes as an intended way.
+- New version of Webdriver is used.
+- Funny Bingus drawing is used as main icon. (Thanks to @unfremd)
+- Detects also Zoom links.
+- Fixed error codes.
+- Fixed log messages.
+
+*Open Beta v1.0 - 10/1/21
+
+- Optimized the code for public testing.
+- New official logo.
+- Updated README.txt file.
+
+*Open Beta v1.1 - 13/1/21
+
+- Fixed weird behaviour with the first startup due to incorrect handle of cookies.
+- Fixed crashing while trying to turn off the microphone and camera.
+- Decreased the chances of crashing due to minor html changes.
+- If the link was posted in the morning, before joining the lesson, the software will wait until 5 minutes before the lesson start.
+The wait can not be longer than 30 minutes. (Spiru Haret Lyceum's class schedule is taken!)
+
+*Release v1.0 - 27/1/21
+
+- Fixed unhandled NullPointerException in case of Exit() method before Webdriver initialization.
+- InputBox() method appears before Webdriver initialization method to avoid message box appearing behind the chrome instance. 
+- Cleaned the code for a better reading.
+- Official release.
