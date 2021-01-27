@@ -35,7 +35,7 @@ The possible link is located in one of these 2 <span> tags. The bot will check b
   
 If the valid Google Meet or Zoom link is found and also respecting the schedule*, the bot will connect to the online lesson.
 
-1. In case it is a Google Meet link the user is not required to pass the login once again due to existing cookies in the session. The bot will turn off the microphone and the camera and will ask the user with following message box:
+1. In case it is a Google Meet link the user is not required to pass the login once again due to existing cookies in the session. The bot will turn off the microphone, the camera and will ask the user with the following message box:
 
 ![info3](infobox/info3.PNG)
 
