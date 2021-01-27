@@ -1,0 +1,176 @@
+[
+  {
+    "inputbox_1": {
+      "en": "Please enter the lesson number you want to connect to from this interval: [1-7]",
+      "ro": "Vă rog să întroduceți numărul lecției din acest interval [1-7]"
+    }
+  },
+  {
+    "infobox_1": {
+      "en": "You failed to enter a valid number. Please read the documentation or try again.",
+      "ro": "Aţi introdus un număr greşit. Recomandăm să citiţi din nou documentaţia."
+    }
+  },
+  {
+    "infobox_2": {
+      "en": "Incorrect value. Number of tries left: ",
+      "ro": "Valoare incorectă. Numărul de incercări rămase: "
+    }
+  },
+  {
+    "infobox_3": {
+      "en": "EasyOnlineClasses session ended due to timeout of 120 minutes. Did you fall asleep or you're illegally using the automated browser?",
+      "ro": "Sesiunea EasyOnlineClasses a fost încheiată din cauza expirării intervalului de 120 minute. Aţi adormit sau folosiţi browserul automat în mod ilegal?"
+    }
+  },
+  {
+    "infobox_4": {
+      "en": "Please enter your login credentials. You have 5 minutes.",
+      "ro": "Introduceţi informaţia de login. Aveţi 5 minute."
+    }
+  },
+  {
+    "infobox_5": {
+      "en": "Please launch the zoom meeting by yourself. The browser will close in 5 minutes.",
+      "ro": "Vă rog sa porniți meetingul Zoom manual. Browserul se va închide în 5 minute."
+    }
+  },
+  {
+    "errorbox_1": {
+      "en": "Unable to get system date. Error message: ",
+      "ro": "Imposibil de a obține data din sistem. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_2": {
+      "en": "Invalid IFRAME name or id. Error message: ",
+      "ro": "Nume IFRAME sau ID incorect. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_3": {
+      "en": "Login element in IFRAME is not clickable. Error message: ",
+      "ro": "Element de login în IFRAME nu e accesibil. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_4": {
+      "en": "\"Enter with google account\" button is not found. Error message: ",
+      "ro": "Opţiunea \"Intraţi cu un account google\" nu a fost găsită. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_5": {
+      "en": "\"Enter with google account\" button is not clickable. Error message: ",
+      "ro": "Opţiunea \"Intraţi cu un account google\" nu e accesibilă. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_6": {
+      "en": "You did not use your 5 minutes properly. Shame on you.",
+      "ro": "Timpul de 5 minute a expirat. Ruşine."
+    }
+  },
+  {
+    "errorbox_7": {
+      "en": "Did not find any lessons with current date.",
+      "ro": "Nu au fost găsite lecţii pe data actuală."
+    }
+  },
+  {
+    "errorbox_8": {
+      "en": "The lesson_index is invalid. Error message: ",
+      "ro": "Numărul lecţiei (lesson_index) este invalid. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_9": {
+      "en": "Unable to press the lesson container. Error message: ",
+      "ro": "Accesarea lecţiei nu poate fi efectuată. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_10": {
+      "en": "Unknown link found. The link is ",
+      "ro": "Un link necunoscut a fost găsit. Linkul este "
+    }
+  },
+  {
+    "errorbox_11": {
+      "en": "UNKNOWN EXCEPTION. Error message: ",
+      "ro": "EROARE NERECUNOSCUTĂ. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_12": {
+      "en": "Exception while parsing current month.",
+      "ro": "Excepție la transformarea lunii curente."
+    }
+  },
+  {
+    "errorbox_13": {
+      "en": "Exception in currentDate() method. Exception message: ",
+      "ro": "Excepție în metoda currentDate(). Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_14": {
+      "en": "Error while writing the log file. Error message: ",
+      "ro": "Eroare la scriere în file-ul log. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_15": {
+      "en": "Invalid path for chromedriver. Exception message: ",
+      "ro": "Path invalid pentru chromedriver. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_16": {
+      "en": "Invalid cookie name. Exception message: ",
+      "ro": "Denumirea la cookie este invalidă. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_17": {
+      "en": "Exception in cookie parsing segment. Exception message :",
+      "ro": "Excepție în segmentul de transformare a cookie. Mesaj de eroare: "
+    }
+  },
+  {
+    "errorbox_18": {
+      "en": "Couldn't turn off microphone and camera. Please continue the process manually.",
+      "ro": "Eroare la închiderea microfonului. Rog să continuaţi procesul în mod manual."
+    }
+  },
+  {
+    "errorbox_19": {
+      "en": "Microphone button is not clickable. Please continue the process manually.",
+      "ro": "A apărut o eroare la accesarea microfonului. Recomandăm continuarea procesului în mod manual."
+    }
+  },
+  {
+    "errorbox_20": {
+      "en": "Couldn't turn off the camera. Please continue the process manually.",
+      "ro": "A apărut o eroare la închiderea camerei. Recomandăm să continuaţi procesul în mod manual."
+    }
+  },
+  {
+    "errorbox_21": {
+      "en": "Camera button is not clickable. Please continue the process manually.",
+      "ro": "A apărut o eroare la accesarea camerei. Recomandăm continuarea procesului în mod manual."
+    }
+  },
+  {
+    "errorbox_22": {
+      "en": "Exception occured while interacting with \"ask to join\" span. Please continue the process manually.",
+      "ro": "A apărut o excepţie în timpul interacţiunii cu comanda \"ask to join\" span. Recomandăm să continuaţi procesul în mod manual."
+    }
+  },
+  {
+    "confirmbox_1": {
+      "en": "Are you sure you want to join the lesson right now?",
+      "ro": "Sunteţi siguri că doriţi să intraţi acum în conferinţă?"
+    }
+  }
+]

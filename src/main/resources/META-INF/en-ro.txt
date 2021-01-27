@@ -1,0 +1,62 @@
+// TRANSLATION FOR MESSAGE BOXES.
+// NOT USED IN THE BUILD.
+
+EN :"Please enter your login credentials. You have 5 minutes."
+RO : "Introduceţi informaţia de login. Aveţi 5 minute."
+
+EN :"You failed to enter a valid number. Please read the documentation or try again."
+RO : "Aţi introdus un număr greşit. Recomandăm să citiţi din nou documentaţia. "
+
+EN :"Incorrect value. You have " + i + " tries left."
+RO : "Valoare incorectă. Mai aveţi " + i + " încercări."
+
+EN :"EasyOnlineClasses session ended due to timeout of 120 minutes. Did you fall asleep or you're illegally using the automated browser?"
+RO : "Sesiunea EasyOnlineClasses a fost încheiată din cauza expirării intervalului de 120 minute. Aţi adormit sau folosiţi browserul automat în mod ilegal?"
+
+EN :"Couldn't turn off the microphone. Please continue the process manually."
+RO : "A apărut o eroare la închiderea microfonului. Recomandăm să continuaţi procesul în mod manual."
+
+EN :"Microphone button is not clickable. Please continue the process manually. Check the last log file."
+RO : "A apărut o eroare la accesarea microfonului. Recomandăm continuarea procesului în mod manual. Verificaţi ultima intrare din fişierul LOGS."
+
+EN :"Couldn't turn off the camera. Please continue the process manually. Check the last log file."
+RO : "A apărut o eroare la închiderea camerei. Recomandăm să continuaţi procesul în mod manual. Verificaţi ultima intrare din fişierul LOGS."
+
+EN :"Camera button is not clickable. Please continue the process manually. Check the last log file."
+RO : "A apărut o eroare la accesarea camerei. Recomandăm continuarea procesului în mod manual. Verificaţi ultima intrare din fişierul LOGS."
+
+EN :"Exception occured while interacting with \"ask to join\" span. Please continue the process manually. Check the last log file." (span e un html tag, nu se traduce)
+RO : "A apărut o excepţie în timpul interacţiunii cu comanda \"ask to join\" span. Recomandăm să continuaţi procesul în mod manual. Verificaţi ultima intrare din fişierul LOGS."
+
+EN :"Invalid IFRAME name or id. Error message: "
+RO : "Nume IFRAME sau ID incorect. Mesaj de eroare: "
+
+EN :"Login element in IFRAME is not clickable. Error message: "
+RO : "Element de login în IFRAME nu e accesibil. Mesaj de eroare: "
+
+EN :"\"Enter with google account\" button is not found. Error message: "
+RO : "Opţiunea \"Intraţi cu un account google\" nu a fost găsită. Mesaj de eroare: "
+
+EN :"\"Enter with google account\" button is not clickable. Error message: "
+RO : "Opţiunea \"Intraţi cu un account google\" nu e accesibilă. Mesaj de eroare: "
+
+EN :"You did not use your 5 minutes properly. Shame on you."
+RO : "Timpul de 5 minute a expirat. Ruşine."
+
+EN :"Did not find any lessons with current date."
+RO : "Nu au fost găsite lecţii pe data introdusă / actuală."
+
+EN :"The school day with this date " + currentDate + " was not found in the current page." (currentDate e variabila, nu se traduce)
+RO : "Ziua de şcoală cu data de " + " nu a fost găsită pe această pagină.
+
+EN :"The lesson_index is invalid. Error message: " (lesson_index e variabila)
+RO : "Numărul lecţiei (lesson_index) este invalid. Mesaj de eroare: "
+
+EN :"Unable to press the lesson container. Error message: "
+RO : "Accesarea lecţiei nu poate fi efectuată. Mesaj de eroare: "
+
+EN :"UNKNOWN EXCEPTION. Error message:"
+RO : "EXCEPŢIE NERECUNOSCUTĂ. Mesaj de eroare: "
+
+EN :"Are you sure you want to join the lesson right now?"
+RO : "Sunteţi siguri că doriţi să intraţi acum în conferinţă?"
