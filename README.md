@@ -59,6 +59,7 @@ The bot will wait for user interaction and will **not** join the lesson without 
         String sixthLesson = "13-20-00";
         String seventhLesson = "14-10-00";
 ```
+The bot will connect to the lesson 5 minutes before its start, but if the wait time is more than 30 minutes, the bot won't wait and will join the lesson immediately.
 
 # Contribute
 You can contribute to this project by testing and requesting any useful features [here](https://github.com/Dimagreg/EasyOnlineClasses/issues).
