@@ -61,4 +61,4 @@ Zoom is not automated due to the limits of Selenium Library that does not extend
 ```
 
 # Contribute
-You can contribute to this project by testing and requesting any useful features.
+You can contribute to this project by testing and requesting any useful features [here](https://github.com/Dimagreg/EasyOnlineClasses/issues).
