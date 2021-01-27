@@ -27,7 +27,7 @@ After the user inputs the correct number, an automated chrome instance will be c
 Pressing Ok button will initiate a 5 minutes timer and the user will pass the Google Accounts login credentials **MANUALLY** due to security reasons. After the successful login, the software will parse the cookies that will be saved locally in the cookies folder. If the time runs out, the application will shutdown.
 *NOTE!* Passing the login credentials is an **ONE TIME ACTION** which is required only on the first launch.
 
-Based on today's system date, the bot will search for the lesson box with the index passed by the user and will open the lesson container where 2 <span> tags are located.
+Based on today's system date, the bot will search for the lesson box with the index passed by the user and will open the lesson container where 2 span tags are located.
 
 ![info4](infobox/info4.PNG)
 
