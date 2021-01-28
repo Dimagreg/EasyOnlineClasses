@@ -63,3 +63,7 @@ The bot will connect to the lesson 5 minutes before its start, but if the wait t
 
 # Contribute
 You can contribute to this project by testing and requesting any useful features [here](https://github.com/Dimagreg/EasyOnlineClasses/issues).
+
+# Credits
+* vladahancu
+* cozmin.png (logo)
