@@ -213,7 +213,7 @@ public class Main {
         }
 
         if (paths == 1) {
-            System.setProperty("webdriver.chrome.driver", "resources/chromedriver_88.0.4324.96_edited.exe"); //build path
+            System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe"); //build path
         }
 
         ChromeOptions chrome_options = new ChromeOptions();
