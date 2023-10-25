@@ -6,6 +6,11 @@ lesson you selected and will connect to it.
 
 Software is currently limited to **Google Chrome** and **Windows 10** only.
 
+# Demo:
+https://github.com/Dimagreg/EasyOnlineClasses/assets/73190746/4c7f90bb-285b-4698-a293-ff2c48a87c73
+
+*Note! No user interaction is made outside the popups*
+
 # Instructions (wrapped):
 1. Download/Update Java from https://www.java.com/en/download/
 2. Make sure you have Google Chrome installed and updated.
